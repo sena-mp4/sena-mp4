@@ -31,7 +31,7 @@ Tenho especial interesse em:
 
 ## Projetos Destacados
 
-### [Portifolio Pessaoal]([https://seu-usuario.github.io/portfolio](https://github.com/sena-mp4/curso-html-css-yt))
+### [Portifolio Pessoal]([https://seu-usuario.github.io/portfolio](https://github.com/sena-mp4/curso-html-css-yt))
 - Site pessoal desenvolvido com HTML/CSS puro
 - Implementação de efeitos visuais e responsividade
 - Design de interface com foco em experiência do usuário
