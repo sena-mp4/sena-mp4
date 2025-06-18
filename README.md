@@ -44,6 +44,5 @@ Tenho especial interesse em:
 
 1. Dominar conceitos avançados de JavaScript (ES6+)
 2. Aprofundar conhecimentos em frameworks frontend (React, Vue)
-3. Estudar Java para desenvolvimento back-end
-4. Explorar Python para automação e análise de dados
-5. Desenvolver habilidades em UI/UX Design
+3. Estudar Javascript e React.js para Desenvolvimento Web 
+4. Desenvolver habilidades em UI/UX Design
