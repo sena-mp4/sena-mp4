@@ -42,7 +42,6 @@ Tenho especial interesse em:
 
 ## Objetivos de Aprendizado
 
-1. Dominar conceitos avançados de JavaScript (ES6+)
-2. Aprofundar conhecimentos em frameworks frontend (React, Vue)
-3. Estudar Javascript e React.js para Desenvolvimento Web 
-4. Desenvolver habilidades em UI/UX Design
+1. Dominar conceitos avançados de JavaScript
+2. Estudar frameworls como React.js, para Desenvolvimento Web 
+3. Desenvolver habilidades em UI/UX Design
